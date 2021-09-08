@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c90d540-1f93-4131-b13b-1997ba7e68cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/igancev/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/paquettg/string-encode" />
+      <path value="$PROJECT_DIR$/vendor/paquettg/php-html-parser" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1xVkyWAcko5aqbVVyhXwN0LTcs5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../robot.php" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c90d540-1f93-4131-b13b-1997ba7e68cd" name="Default Changelist" comment="" />
+      <created>1630447897778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630447897778</updated>
+      <workItem from="1630447898832" duration="1523000" />
+      <workItem from="1630521366973" duration="26292000" />
+      <workItem from="1630786543560" duration="11561000" />
+      <workItem from="1631016505789" duration="597000" />
+      <workItem from="1631022528009" duration="2191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="359" key="#Deployment" timestamp="1630447996644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="359" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1630447996644" />
+    <state x="857" y="346" key="#SSH_Configurations" timestamp="1630447969692">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="857" y="346" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1630447969692" />
+    <state x="849" y="217" key="FileChooserDialogImpl.inPresentationMode" timestamp="1630864041564">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="849" y="217" key="FileChooserDialogImpl.inPresentationMode/0.0.2560.1400@0.0.2560.1400" timestamp="1630864041564" />
+    <state x="1117" y="624" key="NewPhpFileDialog" timestamp="1630754445332">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="968" y="556" key="NewPhpFileDialog.inPresentationMode" timestamp="1630863995683">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="968" y="556" key="NewPhpFileDialog.inPresentationMode/0.0.2560.1400@0.0.2560.1400" timestamp="1630863995683" />
+    <state x="1117" y="624" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1630754445332" />
+    <state x="830" y="0" width="601" height="675" key="dock-window-1.inPresentationMode" timestamp="1630866348999">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="830" y="0" width="601" height="675" key="dock-window-1.inPresentationMode/0.0.2560.1400@0.0.2560.1400" timestamp="1630866348999" />
+    <state x="987" y="433" width="587" height="534" key="find.popup" timestamp="1631114909244">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="433" width="587" height="534" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1631114909244" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1630864068840">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="606" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode" timestamp="1630864056017">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="606" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode/0.0.2560.1400@0.0.2560.1400" timestamp="1630864056017" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1630864068840" />
+  </component>
+</project>

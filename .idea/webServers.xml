@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="39c5af0f-6b0a-4c67-85b5-2902cf1a6f12" name="lugle" url="https://lugle.ru">
+        <fileTransfer rootFolder="/var/www/lugle.ru" accessType="SFTP" host="185.105.111.20" port="22" sshConfigId="cace06ff-f0c4-4f1e-8baa-a4e5096221ac" sshConfig="root@185.105.111.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
